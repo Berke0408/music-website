@@ -1,0 +1,1342 @@
+{"duman": {
+  "name": "Duman",
+  "genre": "Rock",
+  "about": "Duman, Türk rock müziğinin en önemli gruplarından biri olup grunge ve alternatif rock etkileri taşıyan müziğiyle tanınır.",
+  "works": ["Senden Daha Güzel", "Belki Alışman Lazım", "Her Şeyi Yak", "Sor Bana Pişman Mıyım"],
+
+  "albums": [
+    {"year": 1999, "title": "Eski Köprünün Altında"},
+    {"year": 2002, "title": "Belki Alışman Lazım"},
+    {"year": 2004, "title": "Seni Kendime Sakladım"},
+    {"year": 2009, "title": "Duman II"}
+  ],
+
+  "compare_with": "Mor ve Ötesi",
+  "compare_rows": [
+    {"feature": "Söz Teması", "me": "Bireysel / duygusal", "other": "Toplumsal / eleştirel"},
+    {"feature": "Tempo", "me": "Yavaş – Orta", "other": "Orta"},
+    {"feature": "Tarz", "me": "Grunge etkili Rock", "other": "Alternatif Rock"}
+  ],
+
+  "why": "Grunge etkileri, sade gitar riffleri ve içe dönük söz yapısı Duman’ı Rock türü içinde konumlandırır.",
+  "moods": ["🌙 Melankolik", "🎧 Düşünceli", "🚬 Yalnız"]
+},
+
+"mor-ve-otesi": {
+  "name": "Mor ve Ötesi",
+  "genre": "Rock",
+  "about": "Mor ve Ötesi, alternatif rock tarzında üretimleri ve toplumsal temalı sözleriyle öne çıkan Türk rock grubudur.",
+  "works": ["Bir Derdim Var", "Cambaz", "Oyunbozan", "Uyan"],
+
+  "albums": [
+    {"year": 1999, "title": "Dünya Yalan Söylüyor"},
+    {"year": 2004, "title": "Bir Derdim Var"},
+    {"year": 2008, "title": "Başıbozuk"},
+    {"year": 2010, "title": "Büyük Düşler"}
+  ],
+
+  "compare_with": "Duman",
+  "compare_rows": [
+    {"feature": "Söz Teması", "me": "Toplumsal / eleştirel", "other": "Bireysel / duygusal"},
+    {"feature": "Tempo", "me": "Orta", "other": "Yavaş – Orta"},
+    {"feature": "Tarz", "me": "Alternatif Rock", "other": "Grunge etkili Rock"}
+  ],
+
+  "why": "Eleştirel sözleri, gitar temelli düzenlemeleri ve alternatif rock estetiği bu grubu Rock türüyle ilişkilendirir.",
+  "moods": ["🔥 Enerjik", "🎧 Düşünceli", "✊ Sorgulayıcı"]
+},
+
+"manga": {
+  "name": "Manga",
+  "genre": "Rock",
+  "about": "Manga, rock müziği elektronik ve rap öğeleriyle harmanlayan modern Türk rock grubudur.",
+  "works": ["Bir Kadın Çizeceksin", "We Could Be The Same", "Cevapsız Sorular"],
+
+  "albums": [
+    {"year": 2004, "title": "manga"},
+    {"year": 2009, "title": "Şehr-i Hüzün"},
+    {"year": 2014, "title": "e-akustik"}
+  ],
+
+  "compare_with": "Mor ve Ötesi",
+  "compare_rows": [
+    {"feature": "Söz Teması", "me": "Bireysel / modern", "other": "Toplumsal"},
+    {"feature": "Tarz", "me": "Alternatif / Modern Rock", "other": "Alternatif Rock"}
+  ],
+
+  "why": "Rock altyapısı, güçlü vokaller ve modern düzenlemeler Manga’yı Rock türüne dahil eder.",
+  "moods": ["🔥 Enerjik", "🚗 Yol", "🎮 Dinamik"]
+},
+
+"queen": {
+  "name": "Queen",
+  "genre": "Rock",
+  "about": "Queen, sahne şovları ve türler arası geçişleriyle rock müzik tarihinin en etkili gruplarından biridir.",
+  "works": ["Bohemian Rhapsody", "We Will Rock You", "Don't Stop Me Now"],
+
+  "albums": [
+    {"year": 1975, "title": "A Night at the Opera"},
+    {"year": 1977, "title": "News of the World"},
+    {"year": 1980, "title": "The Game"}
+  ],
+
+  "compare_with": "Pink Floyd",
+  "compare_rows": [
+    {"feature": "Sahne Havası", "me": "Gösterişli", "other": "Deneysel"},
+    {"feature": "Tarz", "me": "Klasik Rock", "other": "Progressive Rock"}
+  ],
+
+  "why": "Rock temelli müzik yapısı ve ikonik sahne performansları Queen’i Rock tarihinin merkezine yerleştirir.",
+  "moods": ["🔥 Coşkulu", "🎤 Epik", "🏟️ Konser"]
+},
+
+"nirvana": {
+  "name": "Nirvana",
+  "genre": "Rock",
+  "about": "Nirvana, grunge akımının öncüsü olarak 1990’lar rock müziğine yön vermiştir.",
+  "works": ["Smells Like Teen Spirit", "Come As You Are", "Lithium"],
+
+  "albums": [
+    {"year": 1989, "title": "Bleach"},
+    {"year": 1991, "title": "Nevermind"},
+    {"year": 1993, "title": "In Utero"}
+  ],
+
+  "compare_with": "Queen",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Grunge", "other": "Klasik Rock"},
+    {"feature": "Söz Teması", "me": "İsyankâr", "other": "Epik"}
+  ],
+
+  "why": "Ham sound, grunge estetiği ve isyankâr tavır Nirvana’yı Rock türünün önemli bir temsilcisi yapar.",
+  "moods": ["🔥 İsyankâr", "🎧 Karanlık", "💥 Ham"]
+},
+
+"pink-floyd": {
+  "name": "Pink Floyd",
+  "genre": "Rock",
+  "about": "Pink Floyd, progressive rock türünün en önemli temsilcilerinden biri olarak konsept albümleriyle tanınır.",
+  "works": ["Comfortably Numb", "Wish You Were Here", "Another Brick in the Wall"],
+
+  "albums": [
+    {"year": 1973, "title": "The Dark Side of the Moon"},
+    {"year": 1975, "title": "Wish You Were Here"},
+    {"year": 1979, "title": "The Wall"}
+  ],
+
+  "compare_with": "Queen",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Progressive Rock", "other": "Klasik Rock"},
+    {"feature": "Atmosfer", "me": "Deneysel", "other": "Gösterişli"}
+  ],
+
+  "why": "Deneysel yapılar ve konsept albümler Pink Floyd’u Rock türünün entelektüel tarafına yerleştirir.",
+  "moods": ["🌌 Atmosferik", "🎧 Derin", "🧠 Düşündüren"]
+},
+
+"red-hot-chili-peppers": {
+  "name": "Red Hot Chili Peppers",
+  "genre": "Rock",
+  "about": "Red Hot Chili Peppers, funk ve rock müziği birleştirerek kendine özgü bir tarz oluşturmuştur.",
+  "works": ["Californication", "Scar Tissue", "Otherside"],
+
+  "albums": [
+    {"year": 1991, "title": "Blood Sugar Sex Magik"},
+    {"year": 1999, "title": "Californication"},
+    {"year": 2002, "title": "By the Way"}
+  ],
+
+  "compare_with": "Nirvana",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Funk Rock", "other": "Grunge"},
+    {"feature": "Tempo", "me": "Yüksek", "other": "Orta"}
+  ],
+
+  "why": "Funk ritimleriyle desteklenen rock altyapısı bu grubu Rock türü içinde konumlandırır.",
+  "moods": ["☀️ Enerjik", "🏄 Rahat", "🔥 Hareketli"]
+},
+"tarkan": {
+  "name": "Tarkan",
+  "genre": "Pop",
+  "about": "Tarkan, Türk pop müziğinin uluslararası alanda en bilinen isimlerinden biridir.",
+  "works": ["Şımarık", "Kuzu Kuzu", "Dudu", "Öp"],
+
+  "albums": [
+    {"year": 1994, "title": "Aacayipsin"},
+    {"year": 1997, "title": "Ölürüm Sana"},
+    {"year": 2001, "title": "Karma"},
+    {"year": 2007, "title": "Metamorfoz"},
+    {"year": 2010, "title": "Adımı Kalbine Yaz"}
+  ],
+
+  "compare_with": "Sezen Aksu",
+  "compare_rows": [
+    {"feature": "Söz Teması", "me": "Aşk / eğlence", "other": "Duygusal / derin"},
+    {"feature": "Sahne Havası", "me": "Enerjik / dans odaklı", "other": "Duygusal / sakin"},
+    {"feature": "Tarz", "me": "Modern Pop", "other": "Klasik Türk Pop"}
+  ],
+
+  "why": "Pop altyapısı, geniş kitlelere hitap eden melodiler ve dans ritimleri Tarkan’ı Pop müziğin merkezine yerleştirir.",
+  "moods": ["🔥 Enerjik", "💃 Eğlenceli", "☀️ Yaz"]
+},
+
+"sezen-aksu": {
+  "name": "Sezen Aksu",
+  "genre": "Pop",
+  "about": "Sezen Aksu, Türk pop müziğinin gelişiminde öncü rol oynamış güçlü bir söz yazarı ve yorumcudur.",
+  "works": ["Gülümse", "Tükeneceğiz", "Hadi Bakalım", "Kutlama"],
+
+  "albums": [
+    {"year": 1988, "title": "Sezen Aksu Söylüyor"},
+    {"year": 1991, "title": "Gülümse"},
+    {"year": 1995, "title": "Işık Doğudan Yükselir"},
+    {"year": 2000, "title": "Deliveren"}
+  ],
+
+  "compare_with": "Sertab Erener",
+  "compare_rows": [
+    {"feature": "Söz Teması", "me": "Duygusal / şiirsel", "other": "Güçlü / dramatik"},
+    {"feature": "Vokal", "me": "Yumuşak", "other": "Güçlü"},
+    {"feature": "Tarz", "me": "Klasik Pop", "other": "Pop / Rock"}
+  ],
+
+  "why": "Melodi odaklı besteleri ve güçlü söz yazımı Sezen Aksu’yu Pop müziğin temel taşlarından biri yapar.",
+  "moods": ["🎧 Duygusal", "🌙 Hüzünlü", "❤️ Aşk"]
+},
+
+"sertab-erener": {
+  "name": "Sertab Erener",
+  "genre": "Pop",
+  "about": "Sertab Erener, güçlü vokali ve batı müziği etkili pop şarkılarıyla tanınır.",
+  "works": ["Everyway That I Can", "Rengârenk", "Aşk", "Sakin Ol!"],
+
+  "albums": [
+    {"year": 1992, "title": "Sakin Ol!"},
+    {"year": 2004, "title": "No Boundaries"},
+    {"year": 2010, "title": "Rengârenk"}
+  ],
+
+  "compare_with": "Tarkan",
+  "compare_rows": [
+    {"feature": "Vokal", "me": "Çok güçlü", "other": "Akıcı"},
+    {"feature": "Tarz", "me": "Pop / Rock", "other": "Dans Pop"}
+  ],
+
+  "why": "Güçlü vokal kullanımı ve pop altyapılı düzenlemeler Sertab Erener’i Pop türü içinde konumlandırır.",
+  "moods": ["🎤 Güçlü", "🔥 Yüksek Enerji"]
+},
+
+"michael-jackson": {
+  "name": "Michael Jackson",
+  "genre": "Pop",
+  "about": "Michael Jackson, pop müziği küresel ölçekte dönüştüren ve modern popun temellerini atan sanatçıdır.",
+  "works": ["Billie Jean", "Thriller", "Beat It", "Smooth Criminal"],
+
+  "albums": [
+    {"year": 1982, "title": "Thriller"},
+    {"year": 1987, "title": "Bad"},
+    {"year": 1991, "title": "Dangerous"}
+  ],
+
+  "compare_with": "Madonna",
+  "compare_rows": [
+    {"feature": "Sahne Şovu", "me": "Dans odaklı", "other": "Konsept odaklı"},
+    {"feature": "Tarz", "me": "Pop / Funk", "other": "Pop"}
+  ],
+
+  "why": "Dans, ritim ve pop melodilerinin birleşimi Michael Jackson’ı Pop müziğin zirvesine taşımıştır.",
+  "moods": ["🕺 Dans", "🔥 Enerjik", "⭐ İkonik"]
+},
+
+"madonna": {
+  "name": "Madonna",
+  "genre": "Pop",
+  "about": "Madonna, pop müzikte stil ve imaj değişimleriyle öncü olmuş ikonik bir sanatçıdır.",
+  "works": ["Like a Virgin", "Vogue", "Hung Up"],
+
+  "albums": [
+    {"year": 1984, "title": "Like a Virgin"},
+    {"year": 1998, "title": "Ray of Light"},
+    {"year": 2005, "title": "Confessions on a Dance Floor"}
+  ],
+
+  "compare_with": "Taylor Swift",
+  "compare_rows": [
+    {"feature": "İmaj", "me": "Provokatif", "other": "Hikâye anlatımı"},
+    {"feature": "Tarz", "me": "Dans Pop", "other": "Pop / Country"}
+  ],
+
+  "why": "Pop müziği sürekli yenileyen yaklaşımı Madonna’yı türün en önemli figürlerinden biri yapar.",
+  "moods": ["💃 Kulüp", "🔥 Cesur"]
+},
+
+"taylor-swift": {
+  "name": "Taylor Swift",
+  "genre": "Pop",
+  "about": "Taylor Swift, hikâye anlatımı güçlü sözleriyle modern pop müziğin en etkili isimlerindendir.",
+  "works": ["Love Story", "Blank Space", "Shake It Off"],
+
+  "albums": [
+    {"year": 2014, "title": "1989"},
+    {"year": 2019, "title": "Lover"},
+    {"year": 2020, "title": "Folklore"}
+  ],
+
+  "compare_with": "Dua Lipa",
+  "compare_rows": [
+    {"feature": "Söz Yapısı", "me": "Hikâye anlatımı", "other": "Ritim odaklı"},
+    {"feature": "Tarz", "me": "Pop / Indie", "other": "Dance Pop"}
+  ],
+
+  "why": "Pop melodilerini kişisel hikâyelerle birleştirmesi Taylor Swift’i Pop türünde öne çıkarır.",
+  "moods": ["❤️ Romantik", "🎧 Duygusal"]
+},
+
+"dua-lipa": {
+  "name": "Dua Lipa",
+  "genre": "Pop",
+  "about": "Dua Lipa, modern dans pop tarzı ve güçlü sahne duruşuyla öne çıkan bir sanatçıdır.",
+  "works": ["Levitating", "Don't Start Now", "Physical"],
+
+  "albums": [
+    {"year": 2017, "title": "Dua Lipa"},
+    {"year": 2020, "title": "Future Nostalgia"}
+  ],
+
+  "compare_with": "Madonna",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Modern Dance Pop", "other": "Klasik Dance Pop"},
+    {"feature": "Enerji", "me": "Yüksek", "other": "Orta"}
+  ],
+
+  "why": "Dans ritimleri ve modern prodüksiyon teknikleri Dua Lipa’yı Pop müziğin güncel temsilcilerinden biri yapar.",
+  "moods": ["💃 Dans", "🔥 Enerjik", "🎉 Kulüp"]
+},"ceza": {
+  "name": "Ceza",
+  "genre": "Hip-Hop / Rap",
+  "about": "Ceza, Türk rap müziğinin öncülerinden biri olup hızlı flow tekniği ve teknik rap tarzıyla tanınır.",
+  "works": ["Suspus", "Neyim Var Ki", "Holocaust", "Med Cezir"],
+
+  "albums": [
+    {"year": 2002, "title": "Med Cezir"},
+    {"year": 2006, "title": "Rapstar"},
+    {"year": 2010, "title": "Onuncu Köy"},
+    {"year": 2015, "title": "Yok Yok"}
+  ],
+
+  "compare_with": "Sagopa Kajmer",
+  "compare_rows": [
+    {"feature": "Söz Teması", "me": "Toplumsal / teknik", "other": "Melankolik / felsefi"},
+    {"feature": "Flow", "me": "Çok hızlı", "other": "Yavaş / ritmik"},
+    {"feature": "Tarz", "me": "Battle / Teknik Rap", "other": "Melankolik Rap"}
+  ],
+
+  "why": "Hızlı flow, kafiye yoğunluğu ve rap kültürüne bağlılığı Ceza’yı Hip-Hop türünün merkezine yerleştirir.",
+  "moods": ["🔥 Enerjik", "⚡ Hızlı", "🎧 Teknik"]
+},
+
+"sagopa-kajmer": {
+  "name": "Sagopa Kajmer",
+  "genre": "Hip-Hop / Rap",
+  "about": "Sagopa Kajmer, melankolik altyapıları ve derin sözleriyle Türk rap müziğinde kendine özgü bir tarz oluşturmuştur.",
+  "works": ["Bir Pesimistin Gözyaşları", "Galiba", "Vasiyet", "366. Gün"],
+
+  "albums": [
+    {"year": 2004, "title": "Bir Pesimistin Gözyaşları"},
+    {"year": 2006, "title": "Romantizma"},
+    {"year": 2010, "title": "Kötü İnsanları Tanıma Senesi"}
+  ],
+
+  "compare_with": "Ceza",
+  "compare_rows": [
+    {"feature": "Söz Yapısı", "me": "Felsefi / içsel", "other": "Teknik / agresif"},
+    {"feature": "Tempo", "me": "Yavaş – Orta", "other": "Hızlı"},
+    {"feature": "Tarz", "me": "Melankolik Rap", "other": "Battle Rap"}
+  ],
+
+  "why": "Derin anlatım, karanlık altyapılar ve içsel temalar Sagopa Kajmer’i Hip-Hop türünde özgün bir yere koyar.",
+  "moods": ["🌙 Melankolik", "🧠 Düşündüren", "🎧 İçsel"]
+},
+
+"ezhel": {
+  "name": "Ezhel",
+  "genre": "Hip-Hop / Rap",
+  "about": "Ezhel, rap, reggae ve trap tarzlarını harmanlayan modern Türk hip-hop sanatçısıdır.",
+  "works": ["Geceler", "İmkansızım", "Aya", "Felaket"],
+
+  "albums": [
+    {"year": 2017, "title": "Müptezhel"},
+    {"year": 2020, "title": "Aleph"}
+  ],
+
+  "compare_with": "Ceza",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Trap / Modern Rap", "other": "Klasik Rap"},
+    {"feature": "Tema", "me": "Gençlik / sokak", "other": "Toplumsal"}
+  ],
+
+  "why": "Trap altyapıları ve modern rap anlatımı Ezhel’i yeni nesil Hip-Hop temsilcisi yapar.",
+  "moods": ["🌃 Gece", "🔥 Enerjik", "🎧 Sokak"]
+},
+
+"eminem": {
+  "name": "Eminem",
+  "genre": "Hip-Hop / Rap",
+  "about": "Eminem, teknik becerisi ve autobiografik sözleriyle dünya rap müziğinin en etkili isimlerinden biridir.",
+  "works": ["Lose Yourself", "Stan", "Without Me", "Rap God"],
+
+  "albums": [
+    {"year": 1999, "title": "The Slim Shady LP"},
+    {"year": 2002, "title": "The Eminem Show"},
+    {"year": 2013, "title": "The Marshall Mathers LP 2"}
+  ],
+
+  "compare_with": "Kendrick Lamar",
+  "compare_rows": [
+    {"feature": "Teknik", "me": "Çok yüksek", "other": "Yüksek"},
+    {"feature": "Söz Teması", "me": "Kişisel / sert", "other": "Toplumsal"}
+  ],
+
+  "why": "Hızlı flow, teknik kafiye ve kişisel anlatım Eminem’i Hip-Hop’un zirvesine taşır.",
+  "moods": ["🔥 Agresif", "⚡ Hızlı", "🎤 Teknik"]
+},
+
+"kendrick-lamar": {
+  "name": "Kendrick Lamar",
+  "genre": "Hip-Hop / Rap",
+  "about": "Kendrick Lamar, toplumsal eleştiriler içeren sözleri ve konsept albümleriyle tanınır.",
+  "works": ["HUMBLE.", "Alright", "DNA.", "King Kunta"],
+
+  "albums": [
+    {"year": 2012, "title": "good kid, m.A.A.d city"},
+    {"year": 2015, "title": "To Pimp a Butterfly"},
+    {"year": 2017, "title": "DAMN."}
+  ],
+
+  "compare_with": "Tupac",
+  "compare_rows": [
+    {"feature": "Tema", "me": "Modern toplumsal", "other": "Politik"},
+    {"feature": "Anlatım", "me": "Konsept / derin", "other": "Doğrudan"}
+  ],
+
+  "why": "Toplumsal eleştiri ve konsept anlatımı Kendrick Lamar’ı çağdaş Hip-Hop’un liderlerinden yapar.",
+  "moods": ["🧠 Derin", "✊ Politik", "🎧 Analitik"]
+},
+
+"tupac": {
+  "name": "Tupac",
+  "genre": "Hip-Hop / Rap",
+  "about": "Tupac Shakur, politik ve toplumsal temaları ele alan rap müziğin efsanevi isimlerinden biridir.",
+  "works": ["California Love", "Changes", "Dear Mama", "Hit 'Em Up"],
+
+  "albums": [
+    {"year": 1995, "title": "Me Against the World"},
+    {"year": 1996, "title": "All Eyez on Me"}
+  ],
+
+  "compare_with": "Kendrick Lamar",
+  "compare_rows": [
+    {"feature": "Dönem", "me": "90’lar", "other": "2010’lar"},
+    {"feature": "Tema", "me": "Politik / sokak", "other": "Toplumsal"}
+  ],
+
+  "why": "Politik duruşu ve sokak anlatımı Tupac’ı Hip-Hop tarihinin sembol isimlerinden biri yapar.",
+  "moods": ["✊ Politik", "🔥 Sert", "🎧 Sokak"]
+},
+
+"drake": {
+  "name": "Drake",
+  "genre": "Hip-Hop / Rap",
+  "about": "Drake, rap ve R&B tarzlarını birleştirerek modern hip-hop müziğe yön veren bir sanatçıdır.",
+  "works": ["God's Plan", "Hotline Bling", "One Dance"],
+
+  "albums": [
+    {"year": 2011, "title": "Take Care"},
+    {"year": 2016, "title": "Views"},
+    {"year": 2018, "title": "Scorpion"}
+  ],
+
+  "compare_with": "Eminem",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Melodik / R&B", "other": "Teknik Rap"},
+    {"feature": "Tempo", "me": "Orta", "other": "Hızlı"}
+  ],
+
+  "why": "Melodik rap yaklaşımı ve popüler sound Drake’i modern Hip-Hop’un ana akım temsilcisi yapar.",
+  "moods": ["💔 Duygusal", "🌃 Gece", "🎧 Chill"]
+},"kerem-gorsev": {
+  "name": "Kerem Görsev",
+  "genre": "Jazz",
+  "about": "Kerem Görsev, modern caz anlayışı ve piyano temelli besteleriyle tanınan Türk caz müzisyenidir.",
+  "works": ["September in Istanbul", "Lila", "Warm Autumn"],
+
+  "albums": [
+    {"year": 1996, "title": "Hands and Lips"},
+    {"year": 2003, "title": "Warm Autumn"},
+    {"year": 2012, "title": "Therapy"}
+  ],
+
+  "compare_with": "İlhan Erşahin",
+  "compare_rows": [
+    {"feature": "Enstrüman", "me": "Piyano", "other": "Saksafon"},
+    {"feature": "Tarz", "me": "Modern Jazz", "other": "Fusion / Acid Jazz"}
+  ],
+
+  "why": "Doğaçlamaya dayalı yapısı ve caz armonileri Kerem Görsev’i Jazz türü içinde konumlandırır.",
+  "moods": ["☕ Sakin", "🎧 Düşünceli", "🌙 Akşam"]
+},
+
+"ilhan-ersahin": {
+  "name": "İlhan Erşahin",
+  "genre": "Jazz",
+  "about": "İlhan Erşahin, cazı elektronik ve deneysel öğelerle birleştiren yenilikçi bir müzisyendir.",
+  "works": ["Slick", "Jungle Funk", "Turkish Bath"],
+
+  "albums": [
+    {"year": 1997, "title": "Out of a Long Dark Tunnel"},
+    {"year": 2001, "title": "Living"},
+    {"year": 2005, "title": "A Lounge Supreme"}
+  ],
+
+  "compare_with": "Kerem Görsev",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Deneysel / Fusion", "other": "Modern Jazz"},
+    {"feature": "Ritim", "me": "Elektronik destekli", "other": "Akustik ağırlıklı"}
+  ],
+
+  "why": "Deneysel yaklaşımı ve doğaçlamaya verdiği önem İlhan Erşahin’i Jazz türünün yenilikçi tarafına yerleştirir.",
+  "moods": ["🧠 Deneysel", "🌌 Atmosferik", "🎧 Gece"]
+},
+
+"miles-davis": {
+  "name": "Miles Davis",
+  "genre": "Jazz",
+  "about": "Miles Davis, caz tarihinin en yenilikçi ve etkili trompetçilerinden biridir.",
+  "works": ["So What", "Freddie Freeloader", "Blue in Green"],
+
+  "albums": [
+    {"year": 1959, "title": "Kind of Blue"},
+    {"year": 1969, "title": "Bitches Brew"},
+    {"year": 1970, "title": "In a Silent Way"}
+  ],
+
+  "compare_with": "John Coltrane",
+  "compare_rows": [
+    {"feature": "Enstrüman", "me": "Trompet", "other": "Saksafon"},
+    {"feature": "Tarz", "me": "Cool / Fusion Jazz", "other": "Hard Bop / Modal Jazz"}
+  ],
+
+  "why": "Caz müziğe yön veren yenilikleri Miles Davis’i Jazz tarihinin merkezine yerleştirir.",
+  "moods": ["🎧 Klasik", "🧠 Derin", "🌌 Zamansız"]
+},
+
+"john-coltrane": {
+  "name": "John Coltrane",
+  "genre": "Jazz",
+  "about": "John Coltrane, spiritüel ve teknik açıdan derin doğaçlamalarıyla tanınan efsanevi bir caz saksofoncusudur.",
+  "works": ["My Favorite Things", "Giant Steps", "Naima"],
+
+  "albums": [
+    {"year": 1960, "title": "Giant Steps"},
+    {"year": 1961, "title": "My Favorite Things"},
+    {"year": 1965, "title": "A Love Supreme"}
+  ],
+
+  "compare_with": "Miles Davis",
+  "compare_rows": [
+    {"feature": "Anlatım", "me": "Spiritüel / yoğun", "other": "Minimal / serin"},
+    {"feature": "Doğaçlama", "me": "Uzun ve karmaşık", "other": "Kısa ve kontrollü"}
+  ],
+
+  "why": "Spiritüel derinlik ve ileri seviye doğaçlama John Coltrane’i Jazz’ın zirve isimlerinden biri yapar.",
+  "moods": ["🧘 Meditatif", "🎧 Derin", "🧠 Düşündüren"]
+},
+
+"louis-armstrong": {
+  "name": "Louis Armstrong",
+  "genre": "Jazz",
+  "about": "Louis Armstrong, caz müziğin erken dönemini şekillendiren trompetçi ve vokalisttir.",
+  "works": ["What a Wonderful World", "When the Saints Go Marching In"],
+
+  "albums": [
+    {"year": 1927, "title": "Hot Five & Hot Seven"},
+    {"year": 1957, "title": "Ella and Louis"}
+  ],
+
+  "compare_with": "Ella Fitzgerald",
+  "compare_rows": [
+    {"feature": "Vokal", "me": "Karakteristik / sıcak", "other": "Temiz / teknik"},
+    {"feature": "Dönem", "me": "Klasik Jazz", "other": "Swing Jazz"}
+  ],
+
+  "why": "Cazın temellerini atan yaklaşımı Louis Armstrong’u Jazz tarihinin sembol isimlerinden biri yapar.",
+  "moods": ["😊 Neşeli", "🎺 Klasik", "☀️ Pozitif"]
+},
+
+"ella-fitzgerald": {
+  "name": "Ella Fitzgerald",
+  "genre": "Jazz",
+  "about": "Ella Fitzgerald, kusursuz vokal tekniği ve scat performanslarıyla caz tarihinin en büyük vokalistlerinden biridir.",
+  "works": ["Summertime", "Dream a Little Dream of Me"],
+
+  "albums": [
+    {"year": 1956, "title": "Ella Fitzgerald Sings the Cole Porter Songbook"},
+    {"year": 1958, "title": "Ella Fitzgerald Sings the Duke Ellington Songbook"}
+  ],
+
+  "compare_with": "Louis Armstrong",
+  "compare_rows": [
+    {"feature": "Vokal Tekniği", "me": "Teknik / temiz", "other": "Karakteristik"},
+    {"feature": "Tarz", "me": "Swing / Vocal Jazz", "other": "Klasik Jazz"}
+  ],
+
+  "why": "Üst düzey vokal tekniği ve swing estetiği Ella Fitzgerald’ı Jazz vokalinin zirvesine taşır.",
+  "moods": ["🎙️ Yumuşak", "🌙 Romantik", "🎧 Klasik"]
+},"mahmut-orhan": {
+  "name": "Mahmut Orhan",
+  "genre": "Elektronik (EDM)",
+  "about": "Mahmut Orhan, deep house ve oriental elektronik öğeleri birleştiren prodüksiyonlarıyla tanınır.",
+  "works": ["Feel", "Save Me", "6 Days"],
+
+  "albums": [
+    {"year": 2016, "title": "One"},
+    {"year": 2020, "title": "Pangea"}
+  ],
+
+  "compare_with": "Burak Yeter",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Deep / Oriental House", "other": "Dance / Pop EDM"},
+    {"feature": "Atmosfer", "me": "Karanlık / Derin", "other": "Parlak / Enerjik"}
+  ],
+
+  "why": "Deep house altyapıları ve doğu ezgileri Mahmut Orhan’ı Elektronik müzik sahnesinde öne çıkarır.",
+  "moods": ["🌌 Derin", "🌃 Gece", "🎧 Atmosferik"]
+},
+
+"burak-yeter": {
+  "name": "Burak Yeter",
+  "genre": "Elektronik (EDM)",
+  "about": "Burak Yeter, dans pistlerine yönelik enerjik elektronik prodüksiyonlarıyla bilinir.",
+  "works": ["Tuesday", "My Life Is Going On"],
+
+  "albums": [
+    {"year": 2016, "title": "New World"},
+    {"year": 2019, "title": "For Message"}
+  ],
+
+  "compare_with": "Mahmut Orhan",
+  "compare_rows": [
+    {"feature": "Tempo", "me": "Yüksek", "other": "Orta"},
+    {"feature": "Hedef", "me": "Dans pisti", "other": "Dinleme odaklı"}
+  ],
+
+  "why": "Dans ritimleri ve popüler EDM yapısı Burak Yeter’i Elektronik müziğin ana akım tarafına yerleştirir.",
+  "moods": ["💃 Dans", "🔥 Enerjik", "🎉 Kulüp"]
+},
+
+"mercan-dede": {
+  "name": "Mercan Dede",
+  "genre": "Elektronik (EDM)",
+  "about": "Mercan Dede, elektronik müziği sufi ve geleneksel öğelerle birleştiren özgün bir sanatçıdır.",
+  "works": ["Ab-ı Hayat", "Nefes"],
+
+  "albums": [
+    {"year": 2001, "title": "Seyahatname"},
+    {"year": 2004, "title": "Su"}
+  ],
+
+  "compare_with": "Daft Punk",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Etnik / Ambient", "other": "House / Funk"},
+    {"feature": "Atmosfer", "me": "Spiritüel", "other": "Dans odaklı"}
+  ],
+
+  "why": "Elektronik altyapı ile mistik öğeleri harmanlaması Mercan Dede’yi Elektronik müzikte özel bir konuma taşır.",
+  "moods": ["🧘 Meditatif", "🌌 Spiritüel", "🎧 Derin"]
+},
+
+"daft-punk": {
+  "name": "Daft Punk",
+  "genre": "Elektronik (EDM)",
+  "about": "Daft Punk, elektronik müziği popüler kültürle buluşturan efsanevi Fransız ikilidir.",
+  "works": ["One More Time", "Harder Better Faster Stronger", "Get Lucky"],
+
+  "albums": [
+    {"year": 1997, "title": "Homework"},
+    {"year": 2001, "title": "Discovery"},
+    {"year": 2013, "title": "Random Access Memories"}
+  ],
+
+  "compare_with": "Calvin Harris",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "House / Funk", "other": "Pop EDM"},
+    {"feature": "Prodüksiyon", "me": "Deneysel", "other": "Ana akım"}
+  ],
+
+  "why": "Yenilikçi prodüksiyon anlayışı ve house temelli yapısı Daft Punk’ı Elektronik müzik tarihine taşır.",
+  "moods": ["🤖 İkonik", "🎧 Retro", "🔥 Enerjik"]
+},
+
+"avicii": {
+  "name": "Avicii",
+  "genre": "Elektronik (EDM)",
+  "about": "Avicii, melodik house tarzıyla elektronik müziği geniş kitlelere ulaştıran bir DJ ve prodüktördür.",
+  "works": ["Levels", "Wake Me Up", "Hey Brother"],
+
+  "albums": [
+    {"year": 2013, "title": "True"},
+    {"year": 2015, "title": "Stories"}
+  ],
+
+  "compare_with": "Calvin Harris",
+  "compare_rows": [
+    {"feature": "Melodi", "me": "Duygusal", "other": "Ritim odaklı"},
+    {"feature": "Tarz", "me": "Melodic House", "other": "Dance Pop EDM"}
+  ],
+
+  "why": "Melodik yapılar ve akılda kalıcı nakaratlar Avicii’yi EDM’in en sevilen isimlerinden biri yapar.",
+  "moods": ["🌅 Duygusal", "🎧 Melodik", "🔥 Enerjik"]
+},
+
+"calvin-harris": {
+  "name": "Calvin Harris",
+  "genre": "Elektronik (EDM)",
+  "about": "Calvin Harris, pop ve elektronik müziği birleştiren hit odaklı prodüksiyonlarıyla tanınır.",
+  "works": ["Summer", "Feel So Close", "One Kiss"],
+
+  "albums": [
+    {"year": 2012, "title": "18 Months"},
+    {"year": 2014, "title": "Motion"}
+  ],
+
+  "compare_with": "David Guetta",
+  "compare_rows": [
+    {"feature": "Hedef Kitle", "me": "Pop / EDM", "other": "Kulüp / EDM"},
+    {"feature": "Prodüksiyon", "me": "Temiz / modern", "other": "Kulüp odaklı"}
+  ],
+
+  "why": "Pop ile elektronik müziği harmanlayan yaklaşımı Calvin Harris’i EDM sahnesinin merkezine koyar.",
+  "moods": ["☀️ Yaz", "💃 Dans", "🎉 Eğlenceli"]
+},
+
+"david-guetta": {
+  "name": "David Guetta",
+  "genre": "Elektronik (EDM)",
+  "about": "David Guetta, elektronik müziği pop yıldızlarıyla birleştirerek küresel hitler üreten bir DJ’dir.",
+  "works": ["Titanium", "Play Hard", "Sexy Bitch"],
+
+  "albums": [
+    {"year": 2009, "title": "One Love"},
+    {"year": 2011, "title": "Nothing but the Beat"}
+  ],
+
+  "compare_with": "Calvin Harris",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Kulüp EDM", "other": "Pop EDM"},
+    {"feature": "Enerji", "me": "Yüksek", "other": "Orta"}
+  ],
+
+  "why": "Kulüp odaklı prodüksiyonlar ve iş birlikleri David Guetta’yı EDM’in en bilinen isimlerinden biri yapar.",
+  "moods": ["🔥 Yüksek Enerji", "💃 Kulüp", "🎧 Festival"]
+},"pentagram-mezarkabul": {
+  "name": "Pentagram (Mezarkabul)",
+  "genre": "Metal",
+  "about": "Pentagram, Türk metal müziğinin öncü gruplarından biri olup heavy ve thrash metal etkileriyle tanınır.",
+  "works": ["Bir", "Anatolia", "Fly Forever", "Gündüz Gece"],
+
+  "albums": [
+    {"year": 1997, "title": "Pentagram"},
+    {"year": 2002, "title": "Unspoken"},
+    {"year": 2010, "title": "MMXII"}
+  ],
+
+  "compare_with": "Kurban",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Heavy / Thrash Metal", "other": "Alternative Metal"},
+    {"feature": "Tema", "me": "Epik / Mitolojik", "other": "Bireysel / Modern"}
+  ],
+
+  "why": "Sert gitar riffleri, güçlü davullar ve metal estetiği Pentagram’ı Metal türünün öncüleri arasına yerleştirir.",
+  "moods": ["🔥 Sert", "⚔️ Epik", "🎧 Güçlü"]
+},
+
+"kurban": {
+  "name": "Kurban",
+  "genre": "Metal",
+  "about": "Kurban, alternatif metal ve rock öğelerini birleştiren modern Türk metal grubudur.",
+  "works": ["Yalan", "Gelme Üstüme", "Sorma"],
+
+  "albums": [
+    {"year": 1999, "title": "Kurban"},
+    {"year": 2001, "title": "Sahip"},
+    {"year": 2019, "title": "İnsanlar"}
+  ],
+
+  "compare_with": "Hayko Cepkin",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Alternative Metal", "other": "Industrial / Metal"},
+    {"feature": "Sahne", "me": "Minimal", "other": "Tiyatrik"}
+  ],
+
+  "why": "Alternatif metal altyapısı ve modern anlatımı Kurban’ı Metal türü içinde konumlandırır.",
+  "moods": ["🎧 Alternatif", "🔥 Dinamik", "🧠 Modern"]
+},
+
+"hayko-cepkin": {
+  "name": "Hayko Cepkin",
+  "genre": "Metal",
+  "about": "Hayko Cepkin, teatral sahne performansları ve deneysel metal yaklaşımıyla tanınır.",
+  "works": ["Sakın Olmayın", "Tanışma Bitti", "Sandık"],
+
+  "albums": [
+    {"year": 2005, "title": "Sakin Olmam Lazım"},
+    {"year": 2010, "title": "Sandık"},
+    {"year": 2014, "title": "Aşkın Izdırabı"}
+  ],
+
+  "compare_with": "Pentagram (Mezarkabul)",
+  "compare_rows": [
+    {"feature": "Sahne Havası", "me": "Tiyatrik", "other": "Klasik Metal"},
+    {"feature": "Tarz", "me": "Industrial / Alternative", "other": "Heavy Metal"}
+  ],
+
+  "why": "Deneysel sound ve teatral performanslar Hayko Cepkin’i Metal sahnesinde özgün kılar.",
+  "moods": ["🎭 Tiyatrik", "🔥 Sert", "⚡ Deneysel"]
+},
+
+"metallica": {
+  "name": "Metallica",
+  "genre": "Metal",
+  "about": "Metallica, thrash metalin en büyük temsilcilerinden biri olarak metal müzik tarihine yön vermiştir.",
+  "works": ["Enter Sandman", "Nothing Else Matters", "Master of Puppets"],
+
+  "albums": [
+    {"year": 1986, "title": "Master of Puppets"},
+    {"year": 1991, "title": "Metallica (Black Album)"},
+    {"year": 2008, "title": "Death Magnetic"}
+  ],
+
+  "compare_with": "Iron Maiden",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Thrash Metal", "other": "Heavy Metal"},
+    {"feature": "Tempo", "me": "Hızlı / Sert", "other": "Orta / Epik"}
+  ],
+
+  "why": "Sert riffler ve agresif yapı Metallica’yı Metal müziğin en ikonik gruplarından biri yapar.",
+  "moods": ["🔥 Agresif", "⚡ Hızlı", "🎧 Klasik"]
+},
+
+"iron-maiden": {
+  "name": "Iron Maiden",
+  "genre": "Metal",
+  "about": "Iron Maiden, epik anlatımı ve melodik heavy metal tarzıyla tanınan İngiliz metal grubudur.",
+  "works": ["The Trooper", "Fear of the Dark", "Run to the Hills"],
+
+  "albums": [
+    {"year": 1982, "title": "The Number of the Beast"},
+    {"year": 1984, "title": "Powerslave"},
+    {"year": 1988, "title": "Seventh Son of a Seventh Son"}
+  ],
+
+  "compare_with": "Metallica",
+  "compare_rows": [
+    {"feature": "Anlatım", "me": "Epik / Hikâyesel", "other": "Agresif"},
+    {"feature": "Tarz", "me": "Heavy Metal", "other": "Thrash Metal"}
+  ],
+
+  "why": "Epik sözler ve melodik gitar yapıları Iron Maiden’ı Heavy Metal’in temel taşlarından biri yapar.",
+  "moods": ["⚔️ Epik", "🎧 Klasik", "🔥 Güçlü"]
+},
+
+"slipknot": {
+  "name": "Slipknot",
+  "genre": "Metal",
+  "about": "Slipknot, sert sahne performansları ve nu metal tarzıyla modern metalin en dikkat çekici gruplarındandır.",
+  "works": ["Duality", "Psychosocial", "Before I Forget"],
+
+  "albums": [
+    {"year": 1999, "title": "Slipknot"},
+    {"year": 2001, "title": "Iowa"},
+    {"year": 2008, "title": "All Hope Is Gone"}
+  ],
+
+  "compare_with": "Metallica",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Nu Metal", "other": "Thrash Metal"},
+    {"feature": "Enerji", "me": "Çok yüksek", "other": "Yüksek"}
+  ],
+
+  "why": "Aşırı sert sound ve agresif sahne enerjisi Slipknot’u Metal’in modern yüzlerinden biri yapar.",
+  "moods": ["🔥 Aşırı Sert", "😈 Karanlık", "🎧 Yoğun"]
+},"baris-manco": {
+  "name": "Barış Manço",
+  "genre": "Anadolu Rock",
+  "about": "Barış Manço, Anadolu ezgilerini rock müzikle birleştirerek geniş kitlelere ulaştıran öncü bir sanatçıdır.",
+  "works": ["Gülpembe", "Dönence", "Sarı Çizmeli Mehmet Ağa", "Halil İbrahim Sofrası"],
+
+  "albums": [
+    {"year": 1975, "title": "2023"},
+    {"year": 1981, "title": "Sözüm Meclisten Dışarı"},
+    {"year": 1983, "title": "Estağfurullah Ne Haddimize"}
+  ],
+
+  "compare_with": "Cem Karaca",
+  "compare_rows": [
+    {"feature": "Tema", "me": "Toplumsal / masalsı", "other": "Politik / toplumsal"},
+    {"feature": "Tarz", "me": "Anadolu Rock", "other": "Protest Rock"}
+  ],
+
+  "why": "Halk müziği motiflerini rock altyapısıyla birleştirmesi Barış Manço’yu Anadolu Rock’ın temel isimlerinden biri yapar.",
+  "moods": ["🌿 Anadolu", "🎧 Düşünceli", "❤️ Nostaljik"]
+},
+
+"cem-karaca": {
+  "name": "Cem Karaca",
+  "genre": "Anadolu Rock",
+  "about": "Cem Karaca, politik sözleri ve güçlü vokaliyle Anadolu Rock ve protest müziğin en önemli temsilcilerindendir.",
+  "works": ["Resimdeki Gözyaşları", "Islak Islak", "Tamirci Çırağı"],
+
+  "albums": [
+    {"year": 1974, "title": "Yoksulluk Kader Olamaz"},
+    {"year": 1977, "title": "Safinaz"},
+    {"year": 1987, "title": "Merhaba Gençler"}
+  ],
+
+  "compare_with": "Erkin Koray",
+  "compare_rows": [
+    {"feature": "Söz Yapısı", "me": "Politik / toplumsal", "other": "Bireysel / deneysel"},
+    {"feature": "Tarz", "me": "Protest Anadolu Rock", "other": "Psychedelic Rock"}
+  ],
+
+  "why": "Toplumsal içerikli sözleri ve güçlü rock altyapısı Cem Karaca’yı Anadolu Rock’ın simge isimlerinden yapar.",
+  "moods": ["✊ Politik", "🔥 Güçlü", "🎧 Derin"]
+},
+
+"erkin-koray": {
+  "name": "Erkin Koray",
+  "genre": "Anadolu Rock",
+  "about": "Erkin Koray, Anadolu Rock’ın deneysel ve psychedelic yönünü temsil eden yenilikçi bir sanatçıdır.",
+  "works": ["Fesuphanallah", "Şaşkın", "Çöpçüler"],
+
+  "albums": [
+    {"year": 1974, "title": "Elektronik Türküler"},
+    {"year": 1977, "title": "Erkin Koray 2"},
+    {"year": 1986, "title": "Gaddar"}
+  ],
+
+  "compare_with": "Moğollar",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Psychedelic Rock", "other": "Folk Rock"},
+    {"feature": "Deneysel Yapı", "me": "Yüksek", "other": "Orta"}
+  ],
+
+  "why": "Deneysel sound ve Anadolu motifleri Erkin Koray’ı Anadolu Rock’ın en özgün isimlerinden biri yapar.",
+  "moods": ["🌀 Deneysel", "🎧 Farklı", "🌌 Psychedelic"]
+},
+
+"mogollar": {
+  "name": "Moğollar",
+  "genre": "Anadolu Rock",
+  "about": "Moğollar, Anadolu halk müziği motiflerini rock altyapısıyla harmanlayan öncü gruplardandır.",
+  "works": ["Bir Şey Yapmalı", "Dinleyiverin Gari", "Issızlığın Ortasında"],
+
+  "albums": [
+    {"year": 1971, "title": "Anadolu Pop"},
+    {"year": 1975, "title": "Moğollar"},
+    {"year": 2003, "title": "Bi’ Şey Yapmalı"}
+  ],
+
+  "compare_with": "Barış Manço",
+  "compare_rows": [
+    {"feature": "Odak", "me": "Enstrümantal / kolektif", "other": "Vokal / hikâye"},
+    {"feature": "Tarz", "me": "Anadolu Folk Rock", "other": "Anadolu Rock"}
+  ],
+
+  "why": "Anadolu ezgilerini rock düzenlemeleriyle birleştirmesi Moğollar’ı Anadolu Rock’ın temel taşlarından yapar.",
+  "moods": ["🌿 Geleneksel", "🎧 Derin", "🔥 Güçlü"]
+},"neset-ertas": {
+  "name": "Neşet Ertaş",
+  "genre": "Türk Halk Müziği",
+  "about": "Neşet Ertaş, bozlak geleneğinin en önemli temsilcilerinden biri olup halk müziğinin efsane isimlerindendir.",
+  "works": ["Gönül Dağı", "Neredesin Sen", "Ah Yalan Dünya"],
+
+  "albums": [
+    {"year": 1970, "title": "Gönül Dağı"},
+    {"year": 1983, "title": "Garip"},
+    {"year": 1995, "title": "Sevda Olmasaydı"}
+  ],
+
+  "compare_with": "Musa Eroğlu",
+  "compare_rows": [
+    {"feature": "Yöre", "me": "Orta Anadolu", "other": "Toroslar"},
+    {"feature": "Tarz", "me": "Bozlak", "other": "Uzun Hava / Deyiş"}
+  ],
+
+  "why": "Bozlak geleneği, sade bağlama düzeni ve içten anlatımı Neşet Ertaş’ı Türk Halk Müziği’nin temel taşı yapar.",
+  "moods": ["🎧 Hüzünlü", "🌿 Anadolu", "🧠 Derin"]
+},
+
+"musa-eroglu": {
+  "name": "Musa Eroğlu",
+  "genre": "Türk Halk Müziği",
+  "about": "Musa Eroğlu, Toroslar yöresine ait türküler ve uzun havalarla tanınan usta bir halk müziği sanatçısıdır.",
+  "works": ["Mihriban", "Turnalar", "Yolun Sonu Görünüyor"],
+
+  "albums": [
+    {"year": 1986, "title": "Mihriban"},
+    {"year": 1991, "title": "Turnalar"},
+    {"year": 2000, "title": "Yolun Sonu Görünüyor"}
+  ],
+
+  "compare_with": "Arif Sağ",
+  "compare_rows": [
+    {"feature": "Yorum", "me": "Duygusal / sade", "other": "Teknik / akademik"},
+    {"feature": "Enstrüman", "me": "Bağlama", "other": "Bağlama / Eğitim"}
+  ],
+
+  "why": "Uzun hava geleneği ve yöresel anlatımı Musa Eroğlu’nu Türk Halk Müziği içinde önemli bir konuma taşır.",
+  "moods": ["🌙 Duygusal", "🎧 Sakin", "🌿 Geleneksel"]
+},
+
+"arif-sag": {
+  "name": "Arif Sağ",
+  "genre": "Türk Halk Müziği",
+  "about": "Arif Sağ, halk müziğini akademik düzeye taşıyan ve bağlama virtüözü olarak tanınan bir sanatçıdır.",
+  "works": ["İnce İnce Bir Kar Yağar", "Zeynebim"],
+
+  "albums": [
+    {"year": 1982, "title": "Muhabbet 1"},
+    {"year": 1985, "title": "Muhabbet 2"},
+    {"year": 1987, "title": "Muhabbet 3"}
+  ],
+
+  "compare_with": "Neşet Ertaş",
+  "compare_rows": [
+    {"feature": "Yaklaşım", "me": "Akademik / teknik", "other": "Geleneksel"},
+    {"feature": "Rol", "me": "Eğitmen / icracı", "other": "Usta âşık"}
+  ],
+
+  "why": "Bağlama tekniği ve eğitici yönü Arif Sağ’ı Türk Halk Müziği’nin akademik yüzü yapar.",
+  "moods": ["🎓 Öğretici", "🎧 Derin", "🌿 Gelenek"]
+},
+
+"zara": {
+  "name": "Zara",
+  "genre": "Türk Halk Müziği",
+  "about": "Zara, güçlü vokali ve geleneksel halk müziği repertuvarıyla tanınan modern bir halk müziği yorumcusudur.",
+  "works": ["Dilberim", "Gönül Dağı", "Kalenin Bedenleri"],
+
+  "albums": [
+    {"year": 2002, "title": "Avare"},
+    {"year": 2005, "title": "Dost Yüreği"},
+    {"year": 2010, "title": "İçimden Geldi Söyledim"}
+  ],
+
+  "compare_with": "Neşet Ertaş",
+  "compare_rows": [
+    {"feature": "Yorum", "me": "Modern / güçlü vokal", "other": "Geleneksel / sade"},
+    {"feature": "Dönem", "me": "Modern", "other": "Klasik"}
+  ],
+
+  "why": "Geleneksel türkülerle modern yorum tarzını birleştirmesi Zara’yı Türk Halk Müziği içinde konumlandırır.",
+  "moods": ["🎤 Güçlü Vokal", "🌿 Geleneksel", "🎧 Duygusal"]
+},
+"zeki-muren": {
+  "name": "Zeki Müren",
+  "genre": "Türk Sanat Müziği",
+  "about": "Zeki Müren, Türk Sanat Müziği’nin en önemli yorumcularından biri olup sahne duruşu ve güçlü sesiyle efsaneleşmiştir.",
+  "works": ["Şimdi Uzaklardasın", "Elbet Bir Gün Buluşacağız", "Manolyam"],
+
+  "albums": [
+    {"year": 1960, "title": "Seni Ben Ellerin Olsun Diye Mi Sevdim"},
+    {"year": 1965, "title": "Şimdi Uzaklardasın"},
+    {"year": 1970, "title": "Gözlerin Doğuyor Gecelerime"}
+  ],
+
+  "compare_with": "Müzeyyen Senar",
+  "compare_rows": [
+    {"feature": "Yorum Tarzı", "me": "Duygusal / teatral", "other": "Klasik / sade"},
+    {"feature": "Sahne", "me": "Gösterişli", "other": "Minimal"}
+  ],
+
+  "why": "Klasik makam yapıları, güçlü yorum ve sahne estetiği Zeki Müren’i Türk Sanat Müziği’nin simge ismi yapar.",
+  "moods": ["🎭 Duygusal", "🎧 Klasik", "🌙 Hüzünlü"]
+},
+
+"muzeyyen-senar": {
+  "name": "Müzeyyen Senar",
+  "genre": "Türk Sanat Müziği",
+  "about": "Müzeyyen Senar, Türk Sanat Müziği’nin ‘Cumhuriyet Divası’ olarak anılan en önemli kadın seslerinden biridir.",
+  "works": ["Benzemez Kimse Sana", "Kimseye Etmem Şikâyet", "Feraye"],
+
+  "albums": [
+    {"year": 1950, "title": "Kimseye Etmem Şikâyet"},
+    {"year": 1960, "title": "Benzemez Kimse Sana"},
+    {"year": 1975, "title": "Feraye"}
+  ],
+
+  "compare_with": "Zeki Müren",
+  "compare_rows": [
+    {"feature": "Yorum", "me": "Sade / klasik", "other": "Teatral"},
+    {"feature": "Dönem", "me": "Klasik dönem", "other": "Modernleşme dönemi"}
+  ],
+
+  "why": "Klasik icra tarzı ve makam bilgisi Müzeyyen Senar’ı Türk Sanat Müziği’nin temel direklerinden biri yapar.",
+  "moods": ["🎧 Klasik", "🌿 Sade", "🧠 Zamansız"]
+},
+
+"bulent-ersoy": {
+  "name": "Bülent Ersoy",
+  "genre": "Türk Sanat Müziği",
+  "about": "Bülent Ersoy, güçlü ve geniş ses aralığıyla Türk Sanat Müziği’nde virtüöz bir yorumcu olarak kabul edilir.",
+  "works": ["Yaşamak İstiyorum", "Geceler", "İntizar"],
+
+  "albums": [
+    {"year": 1980, "title": "Yaşamak İstiyorum"},
+    {"year": 1984, "title": "Beddua"},
+    {"year": 1992, "title": "Geceler"}
+  ],
+
+  "compare_with": "Zeki Müren",
+  "compare_rows": [
+    {"feature": "Vokal Gücü", "me": "Çok güçlü", "other": "Güçlü"},
+    {"feature": "Tarz", "me": "Klasik / dramatik", "other": "Klasik / teatral"}
+  ],
+
+  "why": "Geniş ses aralığı ve klasik makam icrası Bülent Ersoy’u Türk Sanat Müziği’nin en güçlü seslerinden biri yapar.",
+  "moods": ["🎤 Güçlü", "🌙 Dramatik", "🎧 Klasik"]
+},"yuzyuzeyken-konusuruz": {
+  "name": "Yüzyüzeyken Konuşuruz",
+  "genre": "Indie / Alternative",
+  "about": "Yüzyüzeyken Konuşuruz, samimi sözleri ve lo-fi indie sound’u ile modern Türk alternatif sahnesinin öne çıkan gruplarındandır.",
+  "works": ["Ne Farkeder", "Sandal", "Boş Gemiler"],
+
+  "albums": [
+    {"year": 2013, "title": "Evdekilere Selam"},
+    {"year": 2015, "title": "Otoban Sıcağı"},
+    {"year": 2018, "title": "Kendiliğinden"}
+  ],
+
+  "compare_with": "Adamlar",
+  "compare_rows": [
+    {"feature": "Söz Yapısı", "me": "Samimi / günlük", "other": "Hikâyesel / ironik"},
+    {"feature": "Sound", "me": "Lo-fi / sakin", "other": "Alternatif / ritmik"}
+  ],
+
+  "why": "Minimal düzenlemeler ve içe dönük anlatım Yüzyüzeyken Konuşuruz’u Indie müzik içinde konumlandırır.",
+  "moods": ["🌙 Melankolik", "🎧 Sakin", "🚶 Yürüyüş"]
+},
+
+"adamlar": {
+  "name": "Adamlar",
+  "genre": "Indie / Alternative",
+  "about": "Adamlar, hikâye anlatımı güçlü sözleri ve alternatif rock temelli yapısıyla tanınan Türk indie grubudur.",
+  "works": ["Rüyalarda Buruşmuşuz", "Koca Yaşlı Şişko Dünya", "Hikaye"],
+
+  "albums": [
+    {"year": 2014, "title": "Eski Dostum Tankla Gelmiş"},
+    {"year": 2016, "title": "Rüyalarda Buruşmuşuz"},
+    {"year": 2019, "title": "Harekete Kimse Mani Olamaz"}
+  ],
+
+  "compare_with": "Yüzyüzeyken Konuşuruz",
+  "compare_rows": [
+    {"feature": "Anlatım", "me": "Hikâyesel / ironik", "other": "Duygusal / sade"},
+    {"feature": "Tempo", "me": "Orta", "other": "Yavaş"}
+  ],
+
+  "why": "Alternatif rock altyapısı ve özgün hikâye anlatımı Adamlar’ı Indie sahnesinde öne çıkarır.",
+  "moods": ["🎧 Düşünceli", "🚬 Gece", "🧠 Anlatı"]
+},
+
+"arctic-monkeys": {
+  "name": "Arctic Monkeys",
+  "genre": "Indie / Alternative",
+  "about": "Arctic Monkeys, enerjik gitar riffleri ve modern indie rock tarzıyla tanınan İngiliz rock grubudur.",
+  "works": ["Do I Wanna Know?", "505", "I Bet You Look Good on the Dancefloor"],
+
+  "albums": [
+    {"year": 2006, "title": "Whatever People Say I Am, That's What I'm Not"},
+    {"year": 2013, "title": "AM"},
+    {"year": 2018, "title": "Tranquility Base Hotel & Casino"}
+  ],
+
+  "compare_with": "Radiohead",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Indie Rock", "other": "Alternative / Experimental"},
+    {"feature": "Enerji", "me": "Yüksek", "other": "Düşük / atmosferik"}
+  ],
+
+  "why": "Gitar temelli indie rock yapısı Arctic Monkeys’i Indie / Alternative türünün ana akım temsilcilerinden yapar.",
+  "moods": ["🔥 Enerjik", "🎸 Gitar", "🌃 Gece"]
+},
+
+"radiohead": {
+  "name": "Radiohead",
+  "genre": "Indie / Alternative",
+  "about": "Radiohead, deneysel yaklaşımları ve atmosferik sound’u ile alternatif müziğin sınırlarını genişleten bir gruptur.",
+  "works": ["Creep", "Karma Police", "No Surprises"],
+
+  "albums": [
+    {"year": 1997, "title": "OK Computer"},
+    {"year": 2000, "title": "Kid A"},
+    {"year": 2007, "title": "In Rainbows"}
+  ],
+
+  "compare_with": "Arctic Monkeys",
+  "compare_rows": [
+    {"feature": "Yaklaşım", "me": "Deneysel / atmosferik", "other": "Riff odaklı"},
+    {"feature": "Tema", "me": "Yabancılaşma / teknoloji", "other": "Günlük hayat"}
+  ],
+
+  "why": "Deneysel düzenlemeler ve atmosferik yapı Radiohead’i Indie / Alternative müziğin en etkili gruplarından biri yapar.",
+  "moods": ["🌌 Atmosferik", "🧠 Derin", "🎧 Deneysel"]
+},"yavuz-cetin": {
+  "name": "Yavuz Çetin",
+  "genre": "Blues",
+  "about": "Yavuz Çetin, blues-rock tarzı ve güçlü gitar yorumuyla Türk müzik sahnesinde özel bir yere sahiptir.",
+  "works": ["Yaşamak İstemem", "Her Şey Seninle Güzel", "Kıvır Zamanı"],
+
+  "albums": [
+    {"year": 1997, "title": "Satılık"},
+    {"year": 2001, "title": "Kendimden Hallice (Derleme / seçkiler)"}
+  ],
+
+  "compare_with": "B.B. King",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Blues Rock", "other": "Klasik Blues"},
+    {"feature": "Gitar", "me": "Sert / rock etkili", "other": "Yumuşak / duygusal"}
+  ],
+
+  "why": "Gitar ağırlıklı düzenlemeler, blues kalıpları ve duygu yoğunluğu Yavuz Çetin’i Blues türü içinde öne çıkarır.",
+  "moods": ["🎸 Gitar", "🌙 Duygusal", "🎧 Derin"]
+},
+
+"bb-king": {
+  "name": "B.B. King",
+  "genre": "Blues",
+  "about": "B.B. King, ‘Lucille’ adlı gitarı ve duygu yüklü sololarıyla blues tarihinin en büyük isimlerinden biridir.",
+  "works": ["The Thrill Is Gone", "Every Day I Have the Blues", "Sweet Little Angel"],
+
+  "albums": [
+    {"year": 1965, "title": "Live at the Regal"},
+    {"year": 1969, "title": "Completely Well"},
+    {"year": 2000, "title": "Riding with the King"}
+  ],
+
+  "compare_with": "Eric Clapton",
+  "compare_rows": [
+    {"feature": "Kök", "me": "Klasik Blues", "other": "Blues Rock"},
+    {"feature": "Solo", "me": "Duygu odaklı", "other": "Teknik + blues"}
+  ],
+
+  "why": "Blues’un temel gitar dili ve vokal anlatımı B.B. King’i türün en ikonik figürlerinden biri yapar.",
+  "moods": ["🎧 Klasik", "🌙 Hüzünlü", "🧠 Zamansız"]
+},
+
+"eric-clapton": {
+  "name": "Eric Clapton",
+  "genre": "Blues",
+  "about": "Eric Clapton, blues geleneğini rock ile birleştiren ve blues-rock tarzının en bilinen gitaristlerinden biridir.",
+  "works": ["Tears in Heaven", "Layla", "Cocaine"],
+
+  "albums": [
+    {"year": 1970, "title": "Layla and Other Assorted Love Songs"},
+    {"year": 1974, "title": "461 Ocean Boulevard"},
+    {"year": 1992, "title": "Unplugged"}
+  ],
+
+  "compare_with": "B.B. King",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Blues Rock", "other": "Klasik Blues"},
+    {"feature": "Enerji", "me": "Orta", "other": "Sakin"}
+  ],
+
+  "why": "Blues kalıplarını rock altyapısıyla harmanlaması Eric Clapton’ı Blues türünün modern yüzlerinden biri yapar.",
+  "moods": ["🎸 Gitar", "🎧 Sakin", "❤️ Duygusal"]
+},"fazil-say": {
+  "name": "Fazıl Say",
+  "genre": "Klasik Müzik",
+  "about": "Fazıl Say, klasik müziği modern ve yerel öğelerle birleştiren, dünya çapında tanınan Türk piyanist ve bestecidir.",
+  "works": ["İstanbul Senfonisi", "Nazım Oratoryosu", "Kara Toprak"],
+
+  "albums": [
+    {"year": 2001, "title": "Black Earth"},
+    {"year": 2010, "title": "İstanbul Symphony"},
+    {"year": 2013, "title": "Silk Road"}
+  ],
+
+  "compare_with": "İdil Biret",
+  "compare_rows": [
+    {"feature": "Yaklaşım", "me": "Modern / besteci", "other": "Klasik / yorumcu"},
+    {"feature": "Repertuvar", "me": "Çağdaş + klasik", "other": "Saf klasik"}
+  ],
+
+  "why": "Klasik müzik altyapısını çağdaş ve yerel temalarla birleştirmesi Fazıl Say’ı Klasik Müzik içinde özel bir konuma taşır.",
+  "moods": ["🎹 Modern", "🧠 Derin", "🌍 Evrensel"]
+},
+
+"idil-biret": {
+  "name": "İdil Biret",
+  "genre": "Klasik Müzik",
+  "about": "İdil Biret, klasik piyano repertuvarını yorumlama gücüyle tanınan dünya çapında bir virtüözdür.",
+  "works": ["Chopin Nocturnes", "Beethoven Sonatları"],
+
+  "albums": [
+    {"year": 1990, "title": "Chopin Nocturnes"},
+    {"year": 2005, "title": "Beethoven Complete Sonatas"}
+  ],
+
+  "compare_with": "Fazıl Say",
+  "compare_rows": [
+    {"feature": "Tarz", "me": "Klasik / teknik", "other": "Modern / deneysel"},
+    {"feature": "Rol", "me": "Yorumcu", "other": "Besteci + yorumcu"}
+  ],
+
+  "why": "Saf klasik repertuvara bağlılığı ve teknik ustalığı İdil Biret’i Klasik Müziğin önemli temsilcilerinden yapar.",
+  "moods": ["🎹 Klasik", "🎧 Zamansız", "🧘 Sakin"]
+},
+
+"mozart": {
+  "name": "Wolfgang Amadeus Mozart",
+  "genre": "Klasik Müzik",
+  "about": "Mozart, klasik dönem müziğinin en büyük bestecilerinden biri olarak senfoni, opera ve oda müziğinde başyapıtlar vermiştir.",
+  "works": ["Eine kleine Nachtmusik", "Requiem", "Sihirli Flüt"],
+
+  "albums": [
+    {"year": 1788, "title": "Symphony No. 40"},
+    {"year": 1791, "title": "Requiem"},
+    {"year": 1791, "title": "The Magic Flute"}
+  ],
+
+  "compare_with": "Beethoven",
+  "compare_rows": [
+    {"feature": "Dönem", "me": "Klasik dönem", "other": "Geçiş / Romantik"},
+    {"feature": "Tarz", "me": "Dengeli / zarif", "other": "Güçlü / dramatik"}
+  ],
+
+  "why": "Dengeli form yapıları ve melodik zenginliği Mozart’ı Klasik Müziğin temel taşı yapar.",
+  "moods": ["🎼 Zarif", "🎧 Klasik", "🌟 Evrensel"]
+},
+
+"beethoven": {
+  "name": "Ludwig van Beethoven",
+  "genre": "Klasik Müzik",
+  "about": "Beethoven, klasik müzikten romantik döneme geçişi sağlayan ve müziğe duygusal derinlik kazandıran bestecidir.",
+  "works": ["9. Senfoni", "Ay Işığı Sonatı", "5. Senfoni"],
+
+  "albums": [
+    {"year": 1808, "title": "Symphony No. 5"},
+    {"year": 1824, "title": "Symphony No. 9"},
+    {"year": 1801, "title": "Moonlight Sonata"}
+  ],
+
+  "compare_with": "Mozart",
+  "compare_rows": [
+    {"feature": "Anlatım", "me": "Dramatik / güçlü", "other": "Zarif / dengeli"},
+    {"feature": "Dönem Etkisi", "me": "Romantik başlangıcı", "other": "Klasik doruk"}
+  ],
+
+  "why": "Duygusal yoğunluk ve yenilikçi senfoni yapıları Beethoven’ı Klasik Müziğin en etkili isimlerinden biri yapar.",
+  "moods": ["🔥 Dramatik", "🎧 Güçlü", "🧠 Derin"]
+}}
