@@ -722,3 +722,24 @@ html, body {
         width: 100%;
         max-width: 100%;
         box-sizing: border-box;}}
+@media (max-width: 768px) {
+
+    .nav {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .nav-links {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .nav-links li a {
+        width: 100%;
+        text-align: center;
+    }
+}
