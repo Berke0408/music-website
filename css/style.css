@@ -716,3 +716,9 @@ html, body {
         grid-template-columns: 1fr;
     }
 }
+@media (max-width: 768px) {
+    .btn {
+        display: inline-block;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;}}
