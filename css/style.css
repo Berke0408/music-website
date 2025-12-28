@@ -271,3 +271,448 @@ input:focus, textarea:focus{
 
 .tags { display:flex; flex-wrap:wrap; gap:8px; margin-top:8px; }
 .tag { background:#eee; padding:6px 10px; border-radius:999px; font-size:0.92rem; }
+
+footer {
+  margin-top: 40px;
+  padding: 24px 0;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+}
+
+.social-link {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background: rgba(0,0,0,0.06);
+  color: #111;
+  transition: all 0.2s ease;
+}
+
+.social-link svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+.social-link:hover {
+  background: #111;
+  color: #fff;
+  transform: translateY(-3px);
+}
+/* =====================================================
+   ÖRNEK SANATÇILAR KUTUSU – TÜRE ÖZEL ARKA PLAN SİSTEMİ
+   ===================================================== */
+
+/* Ortak yapı */
+.artists-box {
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  padding: 16px;
+  background-color: rgba(255, 255, 255, 0.6); /* yazı okunurluğu */
+  color: #111;
+}
+
+/* Yazıları her zaman üstte tut */
+.artists-box * {
+  position: relative;
+  z-index: 2;
+}
+
+/* Arka plan katmanı */
+.artists-box::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  opacity: 0.40;
+  background-position: center;
+
+  z-index: 1;
+}
+
+/* =======================
+   TÜRE GÖRE GÖRSELLER
+   ======================= */
+
+/* ROCK */
+.artists-box.rock::before {
+  background-image: url("../img/rock.jpg");
+}
+
+/* POP */
+.artists-box.pop::before {
+  background-image: url("../img/pop.jpg");
+}
+
+/* RAP / HIP-HOP */
+.artists-box.rap::before {
+  background-image: url("../img/hiphop.jpg");
+}
+
+/* JAZZ */
+.artists-box.jazz::before {
+  background-image: url("../img/jazz.jpg");
+}
+
+/* ELEKTRONİK */
+.artists-box.electronic::before {
+  background-image: url("../img/electronic.jpg");
+}
+
+/* METAL */
+.artists-box.metal::before {
+  background-image: url("../img/metal.jpg");
+}
+
+/* ANADOLU ROCK */
+.artists-box.anatolian::before {
+  background-image: url("../img/anatolian.jpg");
+}
+
+/* TÜRK HALK MÜZİĞİ */
+.artists-box.folk::before {
+  background-image: url("../img/folk.jpg");
+}
+
+/* TÜRK SANAT MÜZİĞİ */
+.artists-box.tsm::before {
+  background-image: url("../img/tsm.jpg");
+}
+
+/* INDIE / ALTERNATIVE */
+.artists-box.indie::before {
+  background-image: url("../img/indie.jpg");
+}
+
+/* BLUES */
+.artists-box.blues::before {
+  background-image: url("../img/blues.jpg");
+}
+
+/* KLASİK */
+.artists-box.classical::before {
+  background-image: url("../img/classical.jpg");
+}
+/* =================================================
+   ÖNE ÇIKAN ÖZELLİK & DİNLEME ÖNERİSİ – TÜM TÜRLER
+================================================= */
+
+.feature-box,
+.listen-box {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+}
+
+/* Yazılar üstte kalsın */
+.feature-box *,
+.listen-box * {
+  position: relative;
+  z-index: 2;
+}
+
+/* Arka plan katmanı */
+.feature-box::before,
+.listen-box::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0.4; /* RENK YOĞUNLUĞU */
+  z-index: 1;
+}
+
+/* =====================
+   TÜRLERE GÖRE RENKLER
+===================== */
+
+/* ROCK */
+.feature-box.rock::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+  
+}
+.listen-box.rock::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee); 
+}
+
+/* POP */
+.feature-box.pop::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.pop::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* RAP / HIP-HOP */
+.feature-box.rap::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+ 
+}
+.listen-box.rap::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+
+}
+
+/* JAZZ */
+.feature-box.jazz::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+  
+}
+.listen-box.jazz::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* ELEKTRONİK */
+.feature-box.electronic::before {
+  background: linear-gradient(135deg, #fbc2eb, #fad0c4);
+
+}
+.listen-box.electronic::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* METAL */
+.feature-box.metal::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+ 
+}
+.listen-box.metal::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* ANADOLU ROCK */
+.feature-box.anadolu-rock::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.anadolu-rock::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* TÜRK HALK MÜZİĞİ */
+.feature-box.thm::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.thm::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* TÜRK SANAT MÜZİĞİ */
+.feature-box.tsm::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.tsm::before {
+  background: linear-gradient(135deg, #fbc2eb, a6c1ee);
+}
+
+/* INDIE / ALTERNATIVE */
+.feature-box.indie::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.indie::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* BLUES */
+.feature-box.blues::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.blues::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+
+/* KLASİK MÜZİK */
+.feature-box.classical::before {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+.listen-box.classical::before {
+  background: linear-gradient(135deg, #fbc2eb, #a6c1ee);
+}
+/* ORTAK KUTU RENGİ (Dinleme Önerisi ile aynı ton) */
+:root {
+    --box-bg: #e6e4f1;
+    --box-border: rgba(0, 0, 0, 0.06);
+    --box-text: #1f2937;
+}
+
+/* TÜM KARTLAR */
+.card,
+.info-box {
+    background-color: var(--box-bg);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 10px 26px rgba(0,0,0,0.08);
+    border: 1px solid var(--box-border);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover */
+.card:hover,
+.info-box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 18px 40px rgba(0,0,0,0.14);
+}
+
+/* Başlıklar */
+.card h3,
+.info-box h2 {
+    color: var(--box-text);
+    margin-bottom: 10px;
+}
+
+/* Metinler */
+.card p,
+.info-box p,
+.list li {
+    color: #374151;
+    line-height: 1.6;
+}
+
+/* Link */
+.card .link {
+    display: inline-block;
+    margin-top: 12px;
+    color: #4f46e5;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.card .link:hover {
+    text-decoration: underline;
+}
+/* CONTACT GRID */
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: stretch;
+}
+
+/* FORM */
+.contact-form {
+    background: var(--box-bg);
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 10px 26px rgba(0,0,0,0.08);
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 14px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    font-size: 0.95rem;
+}
+
+.contact-form textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+.contact-form button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background: #374151;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background: #111827;
+}
+
+.note {
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: #6b7280;
+}
+
+/* HARİTA */
+.contact-map {
+    background: var(--box-bg);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 10px 26px rgba(0,0,0,0.08);
+}
+
+.contact-map iframe {
+    width: 100%;
+    height: 100%;
+    min-height: 350px;
+    border: 0;
+}
+
+/* MOBİL UYUMLULUK */
+@media (max-width: 768px) {
+    .contact-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .contact-map iframe {
+        min-height: 300px;
+    }
+}
+.contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: stretch; /* ⭐ ÖNEMLİ */
+}
+
+/* Harita kutusu */
+.contact-map {
+    background: #e6e4f1;
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;          
+}
+
+/* Harita */
+.contact-map iframe {
+    width: 100%;
+    height: 100%;           
+    min-height: 100%;       
+    border: 0;
+}
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.contact-map iframe {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .contact-grid {
+        grid-template-columns: 1fr;
+    }
+}
